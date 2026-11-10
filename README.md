@@ -17,3 +17,6 @@ uv sync
 
 # Run the server
 uv run uvicorn main:app --reload
+```
+
+###Please reach http://127.0.0.1:8000/docs for the whole API suite
